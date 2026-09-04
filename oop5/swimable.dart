@@ -1,0 +1,3 @@
+class Swimable {
+  void swim () {}
+}
