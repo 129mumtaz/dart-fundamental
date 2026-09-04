@@ -4,13 +4,13 @@ import 'fish.dart';
 import 'human.dart';
 
 void main() {
-  var drone = Drone('Pesawat Tempur');
+  var drone    = Drone('Pesawat Tempur');
   drone.fly();
 
-  var fish = Fish('Ikan');
+  var fish     = Fish('Ikan');
   fish.swim();
 
-  var human = Human('Manusia');
+  var human    = Human('Manusia');
   human.swim();
 
   var submarine = Submarine('Kapal Selam');
